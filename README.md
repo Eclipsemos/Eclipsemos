@@ -2,7 +2,8 @@
 - @Eclipsemos
 - CS Senior in UW-Madison
 ## Interests
--  FPS Game Reverse: "3D Drawing/Aimbot/Anti-Cheat Bypass/Memory Analysis&Modify*
+-  FPS Game Reverse
+-  Fullstack
 ## Projects:
 - Battlefield V related Reverse
 - Overwatch Overbot using Yolov4
