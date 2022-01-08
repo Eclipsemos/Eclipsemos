@@ -5,8 +5,8 @@
 -  FPS Game Reverse
 -  Fullstack programming
 ## Projects:
-- Battlefield V related Reverse
-- Overwatch Overbot using Yolov4
+- Battlefield V 
+- Overwatch Overbot (Yolov4)
 - Emaily
 <!---
 Eclipsemos/Eclipsemos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
