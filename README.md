@@ -3,7 +3,7 @@
 - CS Senior in UW-Madison
 ## Interests
 -  FPS Game Reverse
--  Fullstack
+-  Fullstack programming
 ## Projects:
 - Battlefield V related Reverse
 - Overwatch Overbot using Yolov4
