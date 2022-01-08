@@ -5,7 +5,7 @@
 -  FPS Game Reverse
 -  Fullstack programming
 ## Projects:
-- Battlefield V 
+- Battlefield V Radar
 - Overwatch Overbot (Yolov4)
 - Emaily
 <!---
