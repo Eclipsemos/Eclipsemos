@@ -2,9 +2,8 @@
 - @Eclipsemos
 - CS Senior in UW-Madison
 ## Interests
--  FPS Game Reverse
--  Bypass
--  Back-end
+-  ML in Security
+-  Game Reverse
 ## Projects:
 - Battlefield V Aimbot
 - Overwatch aimbot using Yolov4
