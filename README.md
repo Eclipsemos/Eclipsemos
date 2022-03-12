@@ -1,4 +1,4 @@
-# About Me
+# Boring fact
 - @Eclipsemos
 - CS Senior in UW-Madison
 ## Interests
