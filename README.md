@@ -1,6 +1,6 @@
 # Boring fact
 - @Eclipsemos
-- CS Senior in UW-Madison
+- CS UW-Madison '23
 ## Interests
 -  ML in Security
 -  Game Reverse
