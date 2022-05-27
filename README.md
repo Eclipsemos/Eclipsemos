@@ -2,7 +2,6 @@
 - @Eclipsemos
 - CS UW-Madison '23
 ## Interests
--  ML in Security
 -  Game Reverse
 ## Projects:
 - Battlefield V Aimbot
