@@ -1,6 +1,8 @@
 # Boring fact
-- CS UW-Madison '23
-## Projects:
-- Aimbot on Battlefield V 
-- Overwatch aimbot using Yolov4
+- CS@UW-Madison '23
+- INCOMING MCS@UIUC '25 
+## INTERESTS
+- C++ related
+- Financial programming
+
 
