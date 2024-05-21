@@ -9,7 +9,7 @@ I'm a full-stack software engineer working on various areas.
         <a target="_blank" href="https://github.com/Eclipsemos">MINIURL</a>
       </td>
       <td>
-        <a target="_blank" href="https://github.com/Eclipsemos/FPS-game-reverse-programming">Game Reverse Eningeering</a>
+        <a target="_blank" href="https://github.com/Eclipsemos/FPS-game-reverse-programming">FPS Reverse Eningeering</a>
       </td>
       <td>
         <a target="_blank" href="https://github.com/Eclipsemos/QEMU_Spoof">QEMU Spoof</a>
