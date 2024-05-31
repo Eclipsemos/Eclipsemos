@@ -6,7 +6,7 @@ I'm a full-stack software engineer working on various areas.
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="https://github.com/Eclipsemos">MINIURL</a>
+        <a target="_blank" href="https://github.com/Eclipsemos/MiniURL">MINIURL</a>
       </td>
       <td>
         <a target="_blank" href="https://github.com/Eclipsemos/FPS-game-reverse-programming">FPS Reverse Eningeering</a>
