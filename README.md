@@ -1,4 +1,4 @@
-# Hi, I'm Nick
+# fps enjoyer
 
 I'm a full-stack software engineer working on various areas.
 
