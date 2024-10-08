@@ -1,4 +1,4 @@
-# fps enjoyer
+# Graduate @ UIUC
 
 I'm a full-stack software engineer working on various areas.
 
