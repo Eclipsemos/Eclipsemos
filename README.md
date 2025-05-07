@@ -25,7 +25,7 @@ I'm a full-stack software engineer working on various areas.
 </table>
 
 ## I love them
-#### PIE PIE
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipsemos&layout=pie)
+#### Donut
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipsemos&layout=layout=donut-vertical)
 
 
