@@ -31,7 +31,7 @@ I'm a full-stack software engineer working on various areas.
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-
-
+#### PIE PIE
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipsemos&layout=pie)
 
 
