@@ -26,6 +26,6 @@ I'm a full-stack software engineer working on various areas.
 
 ## I love them
 #### Donut
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipsemos&layout=layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipsemos&layout=donut-vertical)
 
 
