@@ -1,31 +1,32 @@
+I'm a full-stack software engineer exploring diverse technical domains.
 
+## 🔧 Areas I'm Working On
+- 🌐 High-concurrency backend systems
+- 🛡️ Windows kernel security
+- 🤖 Intelligent Agents and NLP research
 
-I'm a full-stack software engineer working on various areas.
-
-### projects i am working on...
+### 🚧 Projects I’m Building...
 <table>
   <tbody>
     <tr>
-        <td>
+      <td>
         <a target="_blank" href="https://github.com/Eclipsemos/BiasLens">BiasLens</a>
       </td>
       <td>
         <a target="_blank" href="https://github.com/Eclipsemos/MiniURL">URL System</a>
       </td>
       <td>
-        <a target="_blank" href="https://github.com/Eclipsemos/CS2_Aimbot">Light weight Memory hack for CS_2</a>
+        <a target="_blank" href="https://github.com/Eclipsemos/CS2_Aimbot">Lightweight Memory Hack for CS2</a>
       </td>
     </tr>
     <tr>
-        <td>Fact-check w/LLM plugin</td>
-      <td>High Performance Short URL System</td>
-      <td>An easy way to implement game memory hack</td>
+      <td>Fact-checking with LLM plugins</td>
+      <td>High-performance short URL service</td>
+      <td>Minimalistic game memory hack in C++</td>
     </tr>
   </tbody>
 </table>
 
-## I love them
+## ❤️ I Love Them
 #### Donut
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipsemos&layout=donut-vertical)
-
-
