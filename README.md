@@ -1,11 +1,11 @@
 I'm a full-stack software engineer exploring diverse technical domains.
 
-## 🔧 Areas I'm Working On
+## 🔧 Areas
 - 🌐 High-concurrency backend systems
 - 🛡️ Windows kernel security
 - 🤖 Intelligent Agents and NLP research
 
-### 🚧 Projects I’m Building...
+### 🚧 WIP
 <table>
   <tbody>
     <tr>
@@ -27,6 +27,5 @@ I'm a full-stack software engineer exploring diverse technical domains.
   </tbody>
 </table>
 
-## ❤️ I Love Them
-#### Donut
+## LANGUAGES
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipsemos&layout=donut-vertical)
