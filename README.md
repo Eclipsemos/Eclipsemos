@@ -10,18 +10,18 @@ I'm a full-stack software engineer exploring diverse technical domains.
   <tbody>
     <tr>
       <td>
-        <a target="_blank" href="https://github.com/Eclipsemos/BiasLens">BiasLens</a>
+        <a target="_blank" href="https://github.com/Eclipsemos/BiasLens">BiasLens_UIUC</a>
       </td>
       <td>
         <a target="_blank" href="https://github.com/Eclipsemos/MiniUR](https://github.com/Eclipsemos/0xApex">How to crack Apex with Kernel driver?</a>
       </td>
       <td>
-        <a target="_blank" href="https://github.com/Eclipsemos/CS2_Aimbot">How to crack CS2 with WinAPI</a>
+        <a target="_blank" href="https://github.com/Eclipsemos/CS2_Aimbot">How to crack CS2 with WinAPI?</a>
       </td>
     </tr>
     <tr>
       <td>Fact-checking with LLM plugins</td>
-      <td>High-performance short URL service</td>
+      <td>Example of Kernel level memory hack</td>
       <td>Minimalistic game memory hack in C++</td>
     </tr>
   </tbody>
