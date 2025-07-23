@@ -29,3 +29,4 @@ I'm a full-stack software engineer exploring diverse technical domains.
 
 ## LANGUAGES
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipsemos&layout=donut-vertical)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipsemos&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Eclipsemos" /></p>
