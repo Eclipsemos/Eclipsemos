@@ -13,10 +13,10 @@ I'm a full-stack software engineer exploring diverse technical domains.
         <a target="_blank" href="https://github.com/Eclipsemos/BiasLens">BiasLens</a>
       </td>
       <td>
-        <a target="_blank" href="https://github.com/Eclipsemos/MiniURL">URL System</a>
+        <a target="_blank" href="https://github.com/Eclipsemos/MiniUR](https://github.com/Eclipsemos/0xApex">How to crack Apex with Kernel driver?</a>
       </td>
       <td>
-        <a target="_blank" href="https://github.com/Eclipsemos/CS2_Aimbot">Lightweight Memory Hack for CS2</a>
+        <a target="_blank" href="https://github.com/Eclipsemos/CS2_Aimbot">How to crack CS2 with WinAPI</a>
       </td>
     </tr>
     <tr>
