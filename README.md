@@ -1,8 +1,8 @@
 I'm a full-stack software engineer exploring diverse technical domains.
 
 ## 🔧 Areas
-- 🌐 High-concurrency backend systems
 - 🛡️ Windows kernel security
+-  🌐 RPC backend systems
 - 🤖 Intelligent Agents and NLP research
 
 ### 🚧 WIP
