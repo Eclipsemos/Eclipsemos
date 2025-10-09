@@ -13,6 +13,7 @@ const ME: Dev = Dev {
 ```
 ### About me
 Dev @ SpaceAIC
-maybe Phd in 2027
+
+maybe PhD student in 2027
 ## LANGUAGES
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipsemos&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Eclipsemos" /></p>
