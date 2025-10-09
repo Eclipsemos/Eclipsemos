@@ -1,31 +1,18 @@
-I'm a full-stack software engineer exploring diverse technical domains.
+```rust
+struct Dev {
+    role: &'static str,
+    area: &'static str,
+    background: (&'static str, &'static str),
+}
 
-## 🔧 Areas
-- 🛡️ Windows kernel security
--  🌐 RPC backend systems
-- 🤖 Intelligent Agents and NLP research
-
-### 🚧 WIP
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a target="_blank" href="https://github.com/Eclipsemos/BiasLens">BiasLens_UIUC</a>
-      </td>
-      <td>
-        <a target="_blank" href="https://github.com/Eclipsemos/0xApex">How to crack Apex with Kernel driver?</a>
-      </td>
-      <td>
-        <a target="_blank" href="https://github.com/Eclipsemos/CS2_Aimbot">How to crack CS2 with WinAPI?</a>
-      </td>
-    </tr>
-    <tr>
-      <td>Fact-checking with LLM plugins</td>
-      <td>Example of Kernel level memory hack</td>
-      <td>Minimalistic game memory hack in C++</td>
-    </tr>
-  </tbody>
-</table>
-
+const ME: Dev = Dev {
+    role: "grinder",
+    area: "kernel security",
+    background: ("mcs UIUC", "cs UW–Madison"),
+};
+```
+### About me
+Dev @ SpaceAIC
+maybe Phd in 2027
 ## LANGUAGES
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipsemos&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Eclipsemos" /></p>
