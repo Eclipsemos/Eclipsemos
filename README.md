@@ -6,13 +6,13 @@ struct Dev {
 }
 
 const ME: Dev = Dev {
-    role: "grinder",
-    area: "kernel security",
-    background: ("mcs UIUC", "cs UW–Madison"),
+    role: "startup engineer",
+    area: "HPC",
+    background: ("SpaceAIC", "UIUC"),
 };
 ```
 ### About me
-Dev @ SpaceAIC
+Dev @ SpaceAIC, Satellite Network Startup
 
 maybe PhD student in 2027
 ## LANGUAGES
